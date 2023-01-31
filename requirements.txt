@@ -19,7 +19,7 @@ requests
 json
 
 matplotlib.pyplot
-seaborn as sns
+seaborn
 sys
 
 shap
